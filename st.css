@@ -1,0 +1,48 @@
+
+body{
+    background-color:rgb(4, 29, 29);
+    text-align: center;
+
+}
+.container{
+    width:360px;
+    padding:33px;
+    background-color: #109c91;
+    margin-top:5px;
+    text-align: center;
+    margin-left:30%;
+}
+h1{
+    color: #e2e6ec;
+}
+input{
+    width:280px;
+    padding:8px;
+    border: 2px solid rgb(10,145,145);
+    outline:none;
+    font-size:19px;
+    float: left;
+}
+button{
+    width: 60px;
+    height:40px;
+    background-color:rgb(47, 95, 255);
+    color:rgb(140, 223, 154);
+    border-radius:2px;
+    font-size:19px;
+    outline:none;
+    cursor:pointer;
+}
+.text ul{
+    position: relative;
+    background-color: rgb(197, 135, 20);
+    color:white;
+    font-size: 19px;
+    text-align:left;
+}
+.text ul i{
+    position:absolute;
+    right:10px;
+    cursor: pointer;
+
+}
